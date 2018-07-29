@@ -30,4 +30,4 @@ The goal of backpropagation is to adjust the weights and biases in order to opti
 
 
 
-'Y' is the expected values, in our case that would be a vector of 0's except for the one that the input digit is, which will be a 1. 'Y hat' is what the network predicts what the expected labels should be, computed through the layers of matrix operations.
+'Y' is the expected values, in our case that would be a vector of 0's except for the index that is the handwritten input digit, which will be a 1. 'Y hat' is what the network predicts what the expected labels should be, computed through the layers of matrix operations.
