@@ -4,7 +4,7 @@ Classifying MNIST digits without abstractifying the mathematical optimization in
 ![mnist](http://theanets.readthedocs.io/en/stable/_images/mnist-digits-small.png)
 
 ## Mathematical Optimization
-Machine Learning uses mathematical optimization to minimize a loss, or measure of how bad the model is, where we then can descend the gradients of the parameters with respect to the loss function, called gradient descent. Finding the partial derivative, or rate of change, of a function with respect to its parameters is finding the gradient of those parameters.
+Machine Learning uses mathematical optimization to minimize a loss, or measure of how bad the model is, where we then can descend the gradients of the parameters, called gradient descent. Finding the partial derivative, or rate of change, of a function with respect to its parameters is finding the gradient of those parameters.
 
 ## Deep neural networks
 Multilayer feedforward networks contain input neurons, hidden neurons, and output neurons, which can be expressed as single numbers. Each and every input neuron affects each hidden neuron in the second layer, and so on until the output layer.
