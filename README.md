@@ -1,4 +1,4 @@
-# MNIST-Classification-with-Numpy-and-Backpropagation
+# MNIST Classification with Numpy and Backpropagation
 Classifying MNIST digits without abstractifying the mathematical optimization involved in deep learning, diving into the meat of backpropagation.
 
 ![mnist](http://theanets.readthedocs.io/en/stable/_images/mnist-digits-small.png)
